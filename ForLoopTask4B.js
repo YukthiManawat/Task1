@@ -11,7 +11,8 @@ const inventoryList = [
     ['Apples', 750],
     ['Bananas', 400],
     ['Cherries', 225],
-    ['Watermelon', 100]
+    ['Watermelon', 10
+    0]
 ];
   
 checkInventory(inventoryList);
